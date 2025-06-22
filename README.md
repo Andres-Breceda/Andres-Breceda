@@ -1,5 +1,5 @@
 
-![Black Gradient Minimalistic Future Technology YouTube Banner (2)](https://github.com/user-attachments/assets/096f5e91-68b7-429d-8ddd-5fb1d1e03cbe)
+![Black and White Simple Marketing Manager LinkedIn Banner (3)](https://github.com/user-attachments/assets/da4a07b0-2ce9-4bdd-add8-3ad06dec59b9)
 
 <h1 align="center">Hi 👋, I'm Andres Breceda</h1>
 <h3 align="center">A data science enthusiast from Mexico, focused on turning data into actionable insights</h3>
