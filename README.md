@@ -1,5 +1,6 @@
 
-![Black and White Simple Marketing Manager LinkedIn Banner (3)](https://github.com/user-attachments/assets/da4a07b0-2ce9-4bdd-add8-3ad06dec59b9)
+<img width="1188" alt="Black and White Simple Marketing Manager LinkedIn Banner (10)" src="https://github.com/user-attachments/assets/3a9db2ff-38ba-45e9-a653-e6c4ae1b0469" />
+
 
 <h1 align="center">Hi 👋, I'm Andres Breceda</h1>
 <h3 align="center">A data science enthusiast from Mexico, focused on turning data into actionable insights</h3>
