@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Working with TensorFlow and MLOps, and building full-stack web applications using Flask. I'm currently learning Docker and exploring cloud technologies**
 
-- 👯 I’m looking to collaborate on **IoT Development and Machine Learning Model Deployment for Industrial Applications**
+- 👯 I’m looking to collaborate on in industrial envuironment for Industrial Applications**
 
 - 🤝 I’m looking for help with **Optimizing ML models for embedded systems – Send me an email**
 
